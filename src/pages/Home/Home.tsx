@@ -1,5 +1,7 @@
 
 export const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div className="grow flex items-center justify-center">Home</div>
+  );
 };
 
